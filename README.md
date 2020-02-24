@@ -1,0 +1,2 @@
+# JSON_read_and_write
+Python program that used json library for writing and reading a json file that has bank account details of the customer. This program has the following operation. (1) Check Balance Check Details of Account number (2) Check all accounts in particular location : (list chennai details if chennai given) (3) List the account holder names of particalar age:(age > 25) (4) Withdraw/Deposit balance
