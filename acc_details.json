@@ -1,0 +1,86 @@
+{
+    "BA1234": [
+        {
+            "Name": "Rahul",
+            "Address": "#6, Sholingnallur, Chennai-19",
+            "Phone": "9847467226",
+            "DOB": "22-05-1995",
+            "Balance": 67383
+        },
+        {
+            "Location": "Chennai"
+        }
+    ],
+    "BA4567": [
+        {
+            "Name": "Vinoth",
+            "Address": "#21, Indra Nagar, Hyderabad-03",
+            "Phone": "",
+            "DOB": "04-06-1995",
+            "Balance": 2688
+        },
+        {
+            "Location": "Hyderabad"
+        }
+    ],
+    "BA5793": [
+        {
+            "Name": "Sangeetha",
+            "Address": "#15, Perumbakkam,Chennai-15",
+            "Phone": "9847464466",
+            "DOB": "15-06-1989",
+            "Balance": 1500
+        },
+        {
+            "Location": "Chennai"
+        }
+    ],
+    "BA2525": [
+        {
+            "Name": "Mohan Kumar",
+            "Address": "#221, Reddy St, Silk Board, Bangalore-11",
+            "Phone": "7894903874",
+            "DOB": "23-05-1998",
+            "Balance": 40000
+        },
+        {
+            "Location": "Bangalore"
+        }
+    ],
+    "BA5498": [
+        {
+            "Name": "Sathya",
+            "Address": "#10, Vallalar street, Chennai-17",
+            "Phone": "",
+            "DOB": "30-01-1995",
+            "Balance": 5700
+        },
+        {
+            "Location": "Chennai"
+        }
+    ],
+    "BA4057": [
+        {
+            "Name": "Lakshmi",
+            "Address": "#10, Park Ave, Silk Board, Bangalore-10",
+            "Phone": "8745394292",
+            "DOB": "11-01-1995",
+            "Balance": 23400
+        },
+        {
+            "Location": "Bangalore"
+        }
+    ],
+    "BA4005": [
+        {
+            "Name": "Jaganath Ram",
+            "Address": "#3, Saibaba colony, Hyderabad-22",
+            "Phone": "8744577547",
+            "DOB": "11-05-1993",
+            "Balance": 11200
+        },
+        {
+            "Location": "Hyderabad"
+        }
+    ]
+}
